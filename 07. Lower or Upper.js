@@ -9,4 +9,3 @@ function lowerOrUpper(char) {
     console.log();
 }
 lowerOrUpper("L");
-lowerOrUpper("f");
